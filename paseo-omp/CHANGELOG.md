@@ -1,5 +1,14 @@
 # Changelog
 
+## [0.4.1](https://github.com/omercnet/paseo-plugins/compare/paseo-omp-v0.4.0...paseo-omp-v0.4.1) (2026-09-23)
+
+
+### Bug Fixes
+
+* **paseo-omp:** harden OMP session recovery ([#132](https://github.com/omercnet/paseo-plugins/issues/132)) ([d89a9fe](https://github.com/omercnet/paseo-plugins/commit/d89a9feab367deea2b4629593fac9c6b867884a4))
+* **paseo-omp:** preserve prompt and tool stream ordering ([#148](https://github.com/omercnet/paseo-plugins/issues/148)) ([b667e86](https://github.com/omercnet/paseo-plugins/commit/b667e86af45768ab7459aec4beb8e0b4ea52e312))
+* **paseo-omp:** preserve Windows process tree during cleanup ([#152](https://github.com/omercnet/paseo-plugins/issues/152)) ([e0a5483](https://github.com/omercnet/paseo-plugins/commit/e0a548323ab7e900eefddb4b33e7c3b3d6f1d582))
+
 ## [0.4.0](https://github.com/omercnet/paseo-plugins/compare/paseo-omp-v0.3.0...paseo-omp-v0.4.0) (2026-09-19)
 
 
